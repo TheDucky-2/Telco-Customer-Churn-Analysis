@@ -4,15 +4,15 @@ This project analyzes customer churn data using Python for data cleaning and tra
 
 ## Table of Contents
 
-- [Overview]
-- [Dataset]
-- [Technologies Used]
-- [Data Cleaning and Transformation]
-- [Exploratory Data Analysis]
-- [Power BI Dashboard]
-- [Results & Insights]
-- [How to Run]
-- [Future Work]
+- Overview
+- Dataset
+- Technologies Used
+- Data Cleaning and Transformation
+- Exploratory Data Analysis
+- Power BI Dashboard
+- Results & Insights
+- How to Run
+- Future Work
 
 ## Overview
 
